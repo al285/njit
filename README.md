@@ -1,6 +1,17 @@
-Final Project Instructions: 
 
-This program runs using college data imported into a mysql database. Program is written in CodeIgniter which follow MVC approach design pattern.
+This program runs using college data imported into a MySQL database,  using these CSV files:
+
+2013, Institutional Characteristics Survey, HD2013
+EF2013A : Enrollment Data
+F1213_F1A : Financial Data
+
+Program is written in Code Igniter which follow MVC approach design pattern and internal framework classes following singleton pattern. 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Final Project Instructions: 
 
 For your final project, you are to import 3 csv files into a MySQL database.  You must then write a PHP program that uses SQL to create a listing of the top 10 colleges for each question below:
 
